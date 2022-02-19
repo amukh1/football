@@ -5,7 +5,7 @@ body {
     margin: 0px;
     padding: 0px;
     text-align: center;
- 
+ background-image: url(989.png);
 }
 
 .something {
@@ -33,6 +33,10 @@ body {
 }
 
 .bbbb {
+    font-size: 60px;
+}
+
+.rm {
     font-size: 60px;
 }
 
