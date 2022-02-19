@@ -6,6 +6,7 @@ body {
     padding: 0px;
     text-align: center;
  background-image: url(989.png);
+ font-size: 25px;
 }
 
 .something {
@@ -20,6 +21,14 @@ body {
     font-size: 60px;
     font-style: bold;
     font-family: 'Baloo Bhaina 2', cursive;
+}
+
+.smol {
+    width: 150px;
+}
+
+.bbg {
+    font-size: 60px;
 }
 
 .x {
@@ -38,6 +47,11 @@ body {
 
 .rm {
     font-size: 60px;
+}
+
+.ssome {
+    font-size: 32px;
+
 }
 
 .pxh {
