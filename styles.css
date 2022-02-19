@@ -5,7 +5,7 @@ body {
     margin: 0px;
     padding: 0px;
     text-align: center;
-    
+ 
 }
 
 .something {
@@ -17,6 +17,37 @@ body {
 }
 
 .b {
-    font-size: 30px;
+    font-size: 60px;
+    font-style: bold;
     font-family: 'Baloo Bhaina 2', cursive;
+}
+
+.x {
+
+    font-size: 60px;
+}
+
+.classx2 {
+    font-size: 25px;
+    margin-bottom: 40px;
+}
+
+.bbbb {
+    font-size: 60px;
+}
+
+.pxh {
+     font-size: 60px;
+}
+
+.pxd {
+     font-size: 25px;
+}
+
+.mih {
+     font-size: 60px;
+}
+
+.lih {
+     font-size: 60px;
 }
